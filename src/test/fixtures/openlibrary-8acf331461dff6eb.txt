@@ -1,0 +1,2 @@
+https://openlibrary.org/search.json?title=%ED%82%A4%EC%B9%9C&fields=key,title,author_name,author_key,id_wikidata,edition_count&limit=5
+{"numFound":2,"start":0,"numFoundExact":true,"num_found":2,"documentation_url":"https://openlibrary.org/dev/docs/api/search","q":"","offset":null,"docs":[{"author_key":["OL13208861A"],"author_name":["&#48120;&#46972; &#50672;"],"edition_count":1,"key":"/works/OL36742113W","title":"슈퍼푸드 키친"},{"author_key":["OL13206004A"],"author_name":["정수 소"],"edition_count":1,"key":"/works/OL36735039W","title":"아유르베다 키친"}]}

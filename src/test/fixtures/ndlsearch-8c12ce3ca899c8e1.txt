@@ -1,0 +1,418 @@
+https://ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&title=%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E4%BA%BA%E9%96%93&creator=%E6%9D%91%E7%94%B0%E6%B2%99%E8%80%B6%E9%A6%99&cnt=100
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+  <channel>
+    <title>iss-ndl-opac コンビニ人間 村田沙耶香 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&amp;title=%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E4%BA%BA%E9%96%93&amp;creator=%E6%9D%91%E7%94%B0%E6%B2%99%E8%80%B6%E9%A6%99&amp;cnt=100</link>
+    <description>Search results for dpid=iss-ndl-opac title=コンビニ人間 creator=村田沙耶香 cnt=100</description>
+    <language>ja</language>
+    <openSearch:totalResults>29</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+    <item>
+      <title>コンビニ人間</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I027486285</link>
+      <author>村田, 沙耶香, 1979-,村田沙耶香 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>コンビニ人間</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>文藝春秋</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016.7</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-16-390618-8</dc:identifier>
+    </item>
+    <item>
+      <title>コンビニ人間</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031448227</link>
+      <author>村田, 沙耶香, 1979-,村田沙耶香</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>コンビニ人間</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>埼玉福祉会</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021.5</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86596-425-7</dc:identifier>
+    </item>
+    <item>
+      <title>コンビニ人間</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029161151</link>
+      <author>村田, 沙耶香, 1979-,村田沙耶香 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>コンビニ人間</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>文藝春秋</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-16-791130-0</dc:identifier>
+    </item>
+    <item>
+      <title>Buurtsupermens</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031406043</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,uit het Japans vertaald door Luk Van Haute</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Buurtsupermens</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Nijgh &amp; Van Ditmar</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789038806631</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789038806631</dc:identifier>
+    </item>
+    <item>
+      <title>Человек-комбини (Homo combini)</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030637700</link>
+      <author>村田, 沙耶香, 1979-,Саяка Мурата,перевёл с японского Дмитрий Коваленин</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Человек-комбини (Homo combini)</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Popcorn Books</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>[2020]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9785604458006</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9785604458006</dc:identifier>
+    </item>
+    <item>
+      <title>Convenience store woman</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029568629</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,translated from the Japanese by Ginny Tapley Takemori.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Convenience store woman</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Grove Press</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9780802128256</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ErrorISBN">9780802155555</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9780802128256</dc:identifier>
+    </item>
+    <item>
+      <title>Die Ladenhüterin : Roman</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029291355</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,aus dem Japanischen von Ursula Gräfe.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Die Ladenhüterin : Roman</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Aufbau Verlag GmbH &amp; Co. KG</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9783351037031</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9783351037031</dc:identifier>
+    </item>
+    <item>
+      <title>Дівчина з крамнички</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034154795</link>
+      <author>村田, 沙耶香, 1979-,Саяка Мурата</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Дівчина з крамнички</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Vivat Видавництво</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2026</dc:date>
+      <dcterms:issued>2026</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9786171713413</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9786171713413</dc:identifier>
+    </item>
+    <item>
+      <title>Døgnåpent</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030712209</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,oversatt av Magne Tørring.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Døgnåpent</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Font</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788281695238</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788281695238</dc:identifier>
+    </item>
+    <item>
+      <title>Døgnkioskmennesket : roman</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030283076</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,på dansk ved Mette Holm.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Døgnkioskmennesket : roman</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Grif</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>[2019]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788793661363</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788793661363</dc:identifier>
+    </item>
+    <item>
+      <title>Dziewczyna z konbini</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030050239</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,tłumaczenie z japońskiego Dariusz Latoś.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Dziewczyna z konbini</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Wydawnictwo Uniwersytetu Jagiellońskiego</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788323346241</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788323346241</dc:identifier>
+    </item>
+    <item>
+      <title>Femeia minimarket</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031580880</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,traducere din limba japoneză de Iolanda Prodan</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Femeia minimarket</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Polirom</dc:publisher>
+      <dc:publisher>Polirom</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789734672233</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789734672233</dc:identifier>
+    </item>
+    <item>
+      <title>Hur mår fröken Furukura?</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031584039</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,översättning, Vibeke Emond</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Hur mår fröken Furukura?</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Lind &amp; Co</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>[2020]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789178616343</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789178616343</dc:identifier>
+    </item>
+    <item>
+      <title>Inimene helendavast klaaskastist</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031578259</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,jaapani keelest tõlkinud Maret Nukke</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Inimene helendavast klaaskastist</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Tänapäev</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>[2021]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789949858149</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789949858149</dc:identifier>
+    </item>
+    <item>
+      <title>Kjörbúðarkonan</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033088831</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,Elísa Björg Þorsteinsdóttir þýddi</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kjörbúðarkonan</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Angústúra</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789935523389</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789935523389</dc:identifier>
+    </item>
+    <item>
+      <title>Kombinio moteris : romanas</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033608584</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,iš japonų kalbos vertė Gabija Čepulionytė</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kombinio moteris : romanas</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Lietuvos rašytojų sąjungos leidykla</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>[2019]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9786094801242</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9786094801242</dc:identifier>
+    </item>
+    <item>
+      <title>La dependienta</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029493994</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,traducción del japonés de Marina Bornas.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>La dependienta</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Duomo Ediciones</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788416634620</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788416634620</dc:identifier>
+    </item>
+    <item>
+      <title>La fille de la supérette</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030323540</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,traduit du japonais par Mathilde Tamae-Bouhon.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>La fille de la supérette</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Gallimard</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>[2019]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9782072798559</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9782072798559</dc:identifier>
+    </item>
+    <item>
+      <title>La noia de la botiga 24 hores</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031591554</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,traducció del japonès d'Albert Nolla</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>La noia de la botiga 24 hores</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Labutxaca</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2020</dc:date>
+      <dcterms:issued>2020</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788417423124</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788417423124</dc:identifier>
+    </item>
+    <item>
+      <title>La ragazza del convenience store</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029180771</link>
+      <author>村田, 沙耶香, 1979-,Murata Sayaka,traduzione dal giapponese di Gianluca Coci.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>La ragazza del convenience store</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Edizioni e/o</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>[2018]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788833570020</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788833570020</dc:identifier>
+    </item>
+    <item>
+      <title>Продавачката</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034115017</link>
+      <author>村田, 沙耶香, 1979-,Сајака Мурата</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Продавачката</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Издавачки центар ТРИ</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9786082810072</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9786082810072</dc:identifier>
+    </item>
+    <item>
+      <title>Prodavačica</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031266090</link>
+      <author>村田, 沙耶香, 1979-,Sajaka Murata</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Prodavačica</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Booka</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788680830254</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788680830254</dc:identifier>
+    </item>
+    <item>
+      <title>Querida konbini</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029568673</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,tradução do japonês Rita Kohl.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Querida konbini</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Estação Liberdade</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>[2018]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788574482958</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788574482958</dc:identifier>
+    </item>
+    <item>
+      <title>Shitësja</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034864627</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,përktheu nga anglishtja Eni Myrtollari</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Shitësja</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Skanderbeg Books</dc:publisher>
+      <dc:publisher>Skanderbeg Books</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789951398305</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789951398305</dc:identifier>
+    </item>
+    <item>
+      <title>Uma questão de conveniência</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031654678</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Uma questão de conveniência</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Dom Quixote</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789722066631</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789722066631</dc:identifier>
+    </item>
+    <item>
+      <title>Za sklem</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029967092</link>
+      <author>村田, 沙耶香, 1979-,Sajaka Murata,v překladu Jana Sýkory.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Za sklem</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>Kniha Zlin</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788074737466</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788074737466</dc:identifier>
+    </item>
+    <item>
+      <title>Žena iz prodavaonice mješovite robe</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032950591</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,s engleskoga preveo, Borivoj Radaković</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Žena iz prodavaonice mješovite robe</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>V.B.Z.</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789535203995</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789535203995</dc:identifier>
+    </item>
+    <item>
+      <title>Ženska iz samopostrežne trgovine</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032936904</link>
+      <author>村田, 沙耶香, 1979-,Sayaka Murata,iz angleščine prevedel: Matjaž Juričak</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Ženska iz samopostrežne trgovine</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>V.B.Z.</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789617083149</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789617083149</dc:identifier>
+    </item>
+    <item>
+      <title>Жената конбини</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031614288</link>
+      <author>村田, 沙耶香, 1979-,Саяка Мурата,превела от японски Маргарита Укегава</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Жената конбини</dc:title>
+      <dc:creator>村田, 沙耶香, 1979-</dc:creator>
+      <dc:publisher>ИК „Колибри“</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>2021</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9786190207542</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9786190207542</dc:identifier>
+    </item>
+  </channel>
+</rss>

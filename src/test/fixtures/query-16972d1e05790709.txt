@@ -1,0 +1,9 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fed+%3Ftitle+%3FedLabel+%3Flc+%3Fisbn13+%3Fisbn10+%3FpubLabel+%3Fdate+%3FtrLabel+WHERE+%7B+%3Fed+wdt%3AP629+wd%3AQ2246971+.+OPTIONAL+%7B+%3Fed+wdt%3AP1476+%3Ftitle+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP407+%3Fl+.+%3Fl+wdt%3AP424+%3Flc+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP212+%3Fisbn13+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP957+%3Fisbn10+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP123+%3Fpub+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP577+%3Fdate+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP655+%3Ftr+.+%7D+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22mul%2Cen%2Cfr%2Cja%2Cko%2Czh%22+.+%7D+%7D+LIMIT+1000
+{
+  "head" : {
+    "vars" : [ "ed", "title", "edLabel", "lc", "isbn13", "isbn10", "pubLabel", "date", "trLabel" ]
+  },
+  "results" : {
+    "bindings" : [ ]
+  }
+}

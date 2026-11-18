@@ -1,0 +1,54 @@
+https://ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&title=%E8%8F%9C%E9%A3%9F%E4%B8%BB%E7%BE%A9%E8%80%85&creator=%E9%9F%93%E6%B1%9F&cnt=100
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+  <channel>
+    <title>iss-ndl-opac 菜食主義者 韓江 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&amp;title=%E8%8F%9C%E9%A3%9F%E4%B8%BB%E7%BE%A9%E8%80%85&amp;creator=%E9%9F%93%E6%B1%9F&amp;cnt=100</link>
+    <description>Search results for dpid=iss-ndl-opac title=菜食主義者 creator=韓江 cnt=100</description>
+    <language>ja</language>
+    <openSearch:totalResults>3</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+    <item>
+      <title>菜食主義者</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011312462</link>
+      <author>韓, 江, 1970-,金, 壎我, 1963-,ハン・ガン 著,きむふな 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>菜食主義者</dc:title>
+      <dc:creator>韓, 江, 1970-</dc:creator>
+      <dc:creator>金, 壎我, 1963-</dc:creator>
+      <dc:publisher>クオン</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.8 (第2版)</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-904855-02-7</dc:identifier>
+    </item>
+    <item>
+      <title>채식주의자 : 한강 연작소설</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024434693</link>
+      <author>한, 강 (韓江), 1970-,한강 지음</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>채식주의자 : 한강 연작소설</dc:title>
+      <dc:creator>한, 강 (韓江), 1970-</dc:creator>
+      <dc:publisher>창비</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788936433598</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788936433598</dc:identifier>
+    </item>
+    <item>
+      <title>채식주의자 : 한강 장편소설</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033917894</link>
+      <author>한, 강(韓江), 1970-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>채식주의자 : 한강 장편소설</dc:title>
+      <dc:creator>한, 강(韓江), 1970-</dc:creator>
+      <dc:publisher>창비</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2022</dc:date>
+      <dcterms:issued>2022.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788936434595</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788936434595</dc:identifier>
+    </item>
+  </channel>
+</rss>

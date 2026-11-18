@@ -1,0 +1,125 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fed+%3Ftitle+%3FedLabel+%3Flc+%3Fisbn13+%3Fisbn10+%3FpubLabel+%3Fdate+%3FtrLabel+WHERE+%7B+%3Fed+wdt%3AP629+wd%3AQ163297+.+OPTIONAL+%7B+%3Fed+wdt%3AP1476+%3Ftitle+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP407+%3Fl+.+%3Fl+wdt%3AP424+%3Flc+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP212+%3Fisbn13+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP957+%3Fisbn10+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP123+%3Fpub+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP577+%3Fdate+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP655+%3Ftr+.+%7D+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22mul%2Cen%2Cfr%2Cja%2Cko%2Czh%22+.+%7D+%7D+LIMIT+1000
+{
+  "head" : {
+    "vars" : [ "ed", "title", "edLabel", "lc", "isbn13", "isbn10", "pubLabel", "date", "trLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q106451661"
+      },
+      "title" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "L'Étranger"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "fr"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1942-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "L'Étranger"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Éditions Gallimard"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117280151"
+      },
+      "edLabel" : {
+        "type" : "literal",
+        "value" : "Q117280151"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q117281193"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "type" : "literal",
+        "value" : "Q117281193"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131960965"
+      },
+      "title" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "異邦人"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "ja"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1999-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "異邦人"
+      },
+      "pubLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Shinchōsha"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-4-10-211401-8"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "4-10-211401-7"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141153920"
+      },
+      "title" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Stranger"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "en"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "The Stranger"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-0-307-82766-1"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "0-307-82766-6"
+      }
+    } ]
+  }
+}

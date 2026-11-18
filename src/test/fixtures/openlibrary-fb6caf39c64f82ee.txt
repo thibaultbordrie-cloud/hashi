@@ -1,0 +1,2 @@
+https://openlibrary.org/search.json?title=%E7%95%B0%E9%82%A6%E4%BA%BA&fields=key,title,author_name,author_key,id_wikidata,edition_count&limit=5
+{"numFound":2,"start":0,"numFoundExact":true,"num_found":2,"documentation_url":"https://openlibrary.org/dev/docs/api/search","q":"","offset":null,"docs":[{"author_key":["OL124171A","OL15795605A"],"author_name":["Albert Camus","窪田啓作"],"edition_count":1,"key":"/works/OL43996830W","title":"異邦人"},{"edition_count":1,"key":"/works/OL37533199W","title":"異邦人 (ノン・ポシェット)"}]}

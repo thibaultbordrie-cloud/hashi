@@ -1,0 +1,571 @@
+https://ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&title=%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3&creator=%E5%90%89%E6%9C%AC%E3%81%B0%E3%81%AA%E3%81%AA&cnt=100
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+  <channel>
+    <title>iss-ndl-opac キッチン 吉本ばなな - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&amp;title=%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3&amp;creator=%E5%90%89%E6%9C%AC%E3%81%B0%E3%81%AA%E3%81%AA&amp;cnt=100</link>
+    <description>Search results for dpid=iss-ndl-opac title=キッチン creator=吉本ばなな cnt=100</description>
+    <language>ja</language>
+    <openSearch:totalResults>41</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+    <item>
+      <title>キッチン</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001904100</link>
+      <author>吉本, ばなな, 1964-,吉本ばなな 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>キッチン</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>福武書店</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1988</dc:date>
+      <dcterms:issued>1988.1</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-8288-2252-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-8288-2252-6</dc:identifier>
+    </item>
+    <item>
+      <title>キッチン</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002407134</link>
+      <author>吉本, ばなな, 1964-,吉本ばなな 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>キッチン</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>拡大写本「ルーペの会」</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1995</dc:date>
+      <dcterms:issued>1995.2</dcterms:issued>
+    </item>
+    <item>
+      <title>キッチン</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009097854</link>
+      <author>吉本ばなな 原作,森田芳光 監督</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <dc:title>キッチン</dc:title>
+      <dc:publisher>パイオニアLDC</dc:publisher>
+      <dcterms:issued>[199-]</dcterms:issued>
+    </item>
+    <item>
+      <title>キッチン</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002694092</link>
+      <author>吉本, ばなな, 1964-,吉本ばなな [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>キッチン</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>角川書店</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1998</dc:date>
+      <dcterms:issued>1998.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-04-180008-0</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-04-180008-0</dc:identifier>
+    </item>
+    <item>
+      <title>キッチン</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003658363</link>
+      <author>吉本, ばなな, 1964-,吉本ばなな 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>キッチン</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>新潮社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002.7</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-10-135913-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-10-135913-X</dc:identifier>
+    </item>
+    <item>
+      <title>キッチン</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002144244</link>
+      <author>吉本, ばなな, 1964-,吉本ばなな 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>キッチン</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>福武書店</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>1991.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-8288-3222-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-8288-3222-X</dc:identifier>
+    </item>
+    <item>
+      <title>厨房</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033340067</link>
+      <author>吉本, ばなな, 1964-,李, 萍,吉本芭娜娜 著,李萍 译</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>厨房</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:creator>李, 萍</dc:creator>
+      <dc:publisher>上海译文出版社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.8</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9787532734917</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9787532734917</dc:identifier>
+    </item>
+    <item>
+      <title>デス</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002958143</link>
+      <author>吉本, ばなな, 1964-,吉本ばなな 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>デス</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>新潮社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2001</dc:date>
+      <dcterms:issued>2001.1</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-10-646303-2</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-10-646303-2</dc:identifier>
+    </item>
+    <item>
+      <title>よしもとばなな</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008420043</link>
+      <author>吉本, ばなな, 1964-,よしもとばなな 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>よしもとばなな</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>文藝春秋</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.1</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-16-359830-7</dc:identifier>
+    </item>
+    <item>
+      <title>Eldhús / Banana Yoshimoto ; Elísa Björg Þorsteinsdóttir þýddi.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003228576</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Eldhús / Banana Yoshimoto ; Elísa Björg Þorsteinsdóttir þýddi.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Bjartur</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9979904666</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010836052</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,Lương Việt Dzũng dịch.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Nhà xuất bản Hội nhà văn</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.</dcterms:issued>
+    </item>
+    <item>
+      <title>Kitchen</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034741896</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,tradução do japonês e notas Lica Hashimoto, Lui Navarro, Fabio Pomponio Saldanha</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Estação Liberdade</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2025</dc:date>
+      <dcterms:issued>[2025]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788574483238</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788574483238</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; aus dem Japanischen von Wolfgang E. Schlecht ; mit einem Essay von Giorgio Amitrano.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003214831</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; aus dem Japanischen von Wolfgang E. Schlecht ; mit einem Essay von Giorgio Amitrano.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Diogenes</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1992</dc:date>
+      <dcterms:issued>c1992.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">3257019378</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; traduzione e postfazione di Giorgio Amitrano.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003218665</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; traduzione e postfazione di Giorgio Amitrano.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Feltrinelli</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>c1991.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">880770014X</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; translated from the Japanese by Megan Backus.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003219182</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; translated from the Japanese by Megan Backus.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Faber and Faber</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">057116790X</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; verteaald door E. Kaneshiro-Jager.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003219183</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; verteaald door E. Kaneshiro-Jager.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Uitgeverij Atlas</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>c1993.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9025401856</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; traducido del japonés por Junichi Matsuura y Lourdes Porta.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003238290</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; traducido del japonés por Junichi Matsuura y Lourdes Porta.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Tusquets</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>1991.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8472233863</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; tradução de J. Teixeira de Aguilar ; revista por Yumiko Ori.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003253652</link>
+      <author>吉本, ばなな, 1964-,Ori, Yumiko.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; tradução de J. Teixeira de Aguilar ; revista por Yumiko Ori.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:creator>Ori, Yumiko.</dc:creator>
+      <dc:publisher>ASA</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9724112888</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; tradução, Julieta Leite.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003983169</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; tradução, Julieta Leite.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Editora Nova Fronteira</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1988</dc:date>
+      <dcterms:issued>c1988.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8520906265</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen / Banana Yoshimoto ; përktheu, Elda Ymeri-Föller.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008619714</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen / Banana Yoshimoto ; përktheu, Elda Ymeri-Föller.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Dituria</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1999</dc:date>
+      <dcterms:issued>c1999.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9992731737</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003213172</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,translated from the Japanese by Megan Backus.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Grove Press</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">0802115160</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009774226</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,tradución do xaponés de Mona Imai.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Rinoceronte</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788493641320</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788493641320</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen : nouveles</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009398593</link>
+      <author>吉本, ばなな, 1964-,Banana Giosimoto,metaphrasē, Ampy Raikou.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen : nouveles</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Ekdoseis Kastaniōtē</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2000</dc:date>
+      <dcterms:issued>2000.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9600310742</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ErrorISBN">9600310750</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I033707405</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,traducere din japoneză şi note de Irina Holca</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Humanitas Fiction</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>[2024]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9786060974840</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9786060974840</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen : roman</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034863460</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,përkthyer nga Ledia Dushi</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen : roman</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Trishtil</dc:publisher>
+      <dc:publisher>Trishtil</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2025</dc:date>
+      <dcterms:issued>[2025]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789928844064</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789928844064</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen : roman / Banana Yoshimoto ; traduit du japonais par Dominique Palmé et Kyōko Satō.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003228575</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen : roman / Banana Yoshimoto ; traduit du japonais par Dominique Palmé et Kyōko Satō.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Gallimard</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1994</dc:date>
+      <dcterms:issued>c1994.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">2070731448</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen : roman / Banana Yoshimoto ; på dansk ved Mette Holm.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003232234</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen : roman / Banana Yoshimoto ; på dansk ved Mette Holm.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Gyldendal</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1994</dc:date>
+      <dcterms:issued>[1994], c1988.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8700163325</dc:identifier>
+    </item>
+    <item>
+      <title>Kitchen</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I032816917</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto,uit het Japans vertaald door Maarten Liebregts</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kitchen</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Das Mag Uitgevers</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2023</dc:date>
+      <dcterms:issued>2023</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789493248441</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789493248441</dc:identifier>
+    </item>
+    <item>
+      <title>Kjøkken ; og, Moonlight shadow / Banana Yoshimoto ; oversatt fra japansk av Line Valen.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003243201</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kjøkken ; og, Moonlight shadow / Banana Yoshimoto ; oversatt fra japansk av Line Valen.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>J.W. Cappelens forlag</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1996</dc:date>
+      <dcterms:issued>c1996.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8202147158</dc:identifier>
+    </item>
+    <item>
+      <title>Kök = kjtchen / Banana Yoshimoto ; översättning från japanska av Vjbeke Emond.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003228557</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kök = kjtchen / Banana Yoshimoto ; översättning från japanska av Vjbeke Emond.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Norstedts</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1988</dc:date>
+      <dcterms:issued>c1988.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9119222521</dc:identifier>
+    </item>
+    <item>
+      <title>Konyha : Telihold-Moonlight shadow : japán kisregények</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024249097</link>
+      <author>吉本, ばなな, 1964-,Banana Yoshimoto.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Konyha : Telihold-Moonlight shadow : japán kisregények</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Trivium</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>[2012]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789639711891</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789639711891</dc:identifier>
+    </item>
+    <item>
+      <title>Köök / Banana Yoshimoto ; tõlkinud Kati Lindström.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004279774</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Köök / Banana Yoshimoto ; tõlkinud Kati Lindström.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Varrak</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9985306910</dc:identifier>
+    </item>
+    <item>
+      <title>Kuchnia / Yoshimoto Banana ; przełożyła Anna Zielinska-Elliott.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007529618</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kuchnia / Yoshimoto Banana ; przełożyła Anna Zielinska-Elliott.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Państwowy Instytut Wydawniczy</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>c2004.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8306029313</dc:identifier>
+    </item>
+    <item>
+      <title>Kuhinja</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003249585</link>
+      <author>吉本, ばなな, 1964-,Banana Jošimoto,prevela s engleskog Ksenija Todorović.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kuhinja</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Prosveta</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1995</dc:date>
+      <dcterms:issued>[1995]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8607008757</dc:identifier>
+    </item>
+    <item>
+      <title>Kuhinja : roman</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009976677</link>
+      <author>吉本, ばなな, 1964-,Banana Jošimoto : prevela s engleskog Ksenija Todorović.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kuhinja : roman</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Rad</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>c2008.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788609009822</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788609009822</dc:identifier>
+    </item>
+    <item>
+      <title>Kukhni͡a / Banana Ësimoto.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010041547</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kukhni͡a / Banana Ësimoto.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Amfora</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2009</dc:date>
+      <dcterms:issued>2009.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9785367008999</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9785367008999</dc:identifier>
+    </item>
+    <item>
+      <title>Кухнята</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I030099903</link>
+      <author>吉本, ばなな, 1964-,Банана Йошимото</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Кухнята</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Сиби</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1999</dc:date>
+      <dcterms:issued>1999.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9547300520</dc:identifier>
+    </item>
+    <item>
+      <title>Kukhni͡a ; Ten' pri lunnom svete / Banana Ësimoto.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004295385</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Kukhni͡a ; Ten' pri lunnom svete / Banana Ësimoto.</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Amfora</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>2002.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">5942782156</dc:identifier>
+    </item>
+    <item>
+      <title>New Japanese voices : the best contemporary fiction from Japan / edited by Helen Mitsios ; introduction by Jay McInerney.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003194821</link>
+      <author>Mitsios, Helen.,島田, 雅彦, 1961-,村上, 春樹, 1949-,椎名, 誠, 1944-,いとう, せいこう, 1961-,山田, 詠美, 1959-,李, 良枝, 1955-1992,竹河, 聖,小林, 恭二, 1957-,高橋, 源一郎, 1951-,景山, 民夫, 1947-1998,林, 真理子, 1954-,吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>New Japanese voices : the best contemporary fiction from Japan / edited by Helen Mitsios ; introduction by Jay McInerney.</dc:title>
+      <dc:creator>Mitsios, Helen.</dc:creator>
+      <dc:creator>島田, 雅彦, 1961-</dc:creator>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:creator>椎名, 誠, 1944-</dc:creator>
+      <dc:creator>いとう, せいこう, 1961-</dc:creator>
+      <dc:creator>山田, 詠美, 1959-</dc:creator>
+      <dc:creator>李, 良枝, 1955-1992</dc:creator>
+      <dc:creator>竹河, 聖</dc:creator>
+      <dc:creator>小林, 恭二, 1957-</dc:creator>
+      <dc:creator>高橋, 源一郎, 1951-</dc:creator>
+      <dc:creator>景山, 民夫, 1947-1998</dc:creator>
+      <dc:creator>林, 真理子, 1954-</dc:creator>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Atlantic Monthly Press</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>c1991.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">0871134268</dc:identifier>
+    </item>
+    <item>
+      <title>Úplněk a jiné povídky / Banana Jošimoto ; [přeložila Alice Kraemerová].</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003262634</link>
+      <author>吉本, ばなな, 1964-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Úplněk a jiné povídky / Banana Jošimoto ; [přeložila Alice Kraemerová].</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Brody</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1997</dc:date>
+      <dcterms:issued>1997.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8090211364</dc:identifier>
+    </item>
+    <item>
+      <title>คิทเช่น</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-Ia1000109817</link>
+      <author>吉本, ばなな, 1964-,เรื่องโดย โยชิโมโต บานานา,แปลโดย เพลงดาบแม่น้ำร้อยสาย</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>คิทเช่น</dc:title>
+      <dc:creator>吉本, ばなな, 1964-</dc:creator>
+      <dc:publisher>Bliss Publishing</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2550 [2007]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789749899106</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789749899106</dc:identifier>
+    </item>
+  </channel>
+</rss>

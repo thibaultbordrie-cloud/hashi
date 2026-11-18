@@ -1,0 +1,115 @@
+https://ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&title=%E7%95%B0%E9%82%A6%E4%BA%BA&creator=%E3%82%AB%E3%83%9F%E3%83%A5&cnt=100
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+  <channel>
+    <title>iss-ndl-opac 異邦人 カミュ - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&amp;title=%E7%95%B0%E9%82%A6%E4%BA%BA&amp;creator=%E3%82%AB%E3%83%9F%E3%83%A5&amp;cnt=100</link>
+    <description>Search results for dpid=iss-ndl-opac title=異邦人 creator=カミュ cnt=100</description>
+    <language>ja</language>
+    <openSearch:totalResults>8</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+    <item>
+      <title>異邦人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000878185</link>
+      <author>Camus, Albert, 1913-1960,窪田, 啓作, 1920-2011,カミユ 著,窪田啓作 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>異邦人</dc:title>
+      <dc:creator>Camus, Albert, 1913-1960</dc:creator>
+      <dc:creator>窪田, 啓作, 1920-2011</dc:creator>
+      <dc:publisher>新潮社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1951</dc:date>
+      <dcterms:issued>1951</dcterms:issued>
+    </item>
+    <item>
+      <title>異邦人 : 対訳フランス語で読もう</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023944682</link>
+      <author>アルベール・カミュ 作,柳沢文昭 訳注</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>異邦人 : 対訳フランス語で読もう</dc:title>
+      <dc:publisher>第三書房</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.10</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-8086-0645-9</dc:identifier>
+    </item>
+    <item>
+      <title>異邦人 : デジタル復元版</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031722550</link>
+      <author>アルベール・カミュ 原作,スーゾ・チェッキ・ダミーコ, エマニュエル・ロブレ, ジョルジュ・コンション 脚本,ルキノ・ヴィスコンティ 監督</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <dc:title>異邦人 : デジタル復元版</dc:title>
+      <dc:publisher>ジェットリンク</dc:publisher>
+      <dc:publisher>ポニーキャニオン</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2021</dc:date>
+      <dcterms:issued>[2021.11]</dcterms:issued>
+    </item>
+    <item>
+      <title>異邦人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025522636</link>
+      <author>Camus, Albert, 1913-1960,窪田, 啓作, 1920-2011,カミュ [著],窪田啓作 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>異邦人</dc:title>
+      <dc:creator>Camus, Albert, 1913-1960</dc:creator>
+      <dc:creator>窪田, 啓作, 1920-2011</dc:creator>
+      <dc:publisher>新潮社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2014</dc:date>
+      <dcterms:issued>2014.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-10-211401-8</dc:identifier>
+    </item>
+    <item>
+      <title>異邦人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024069528</link>
+      <author>アルベール・カミュ 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>異邦人</dc:title>
+      <dc:publisher>青灯社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2012</dc:date>
+      <dcterms:issued>2012.11</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-86228-063-3</dc:identifier>
+    </item>
+    <item>
+      <title>異邦人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029481040</link>
+      <author>Camus, Albert, 1913-1960,須賀原, 洋行, 1959-,カミュ 原作,須賀原洋行 まんが</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>異邦人</dc:title>
+      <dc:creator>Camus, Albert, 1913-1960</dc:creator>
+      <dc:creator>須賀原, 洋行, 1959-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.2</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-06-514342-1</dc:identifier>
+    </item>
+    <item>
+      <title>異邦人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000000923279</link>
+      <author>Camus, Albert, 1913-1960,窪田, 啓作, 1920-2011,アルベエル・カミユ 著,窪田啓作 訳</author>
+      <category>図書</category>
+      <category>マイクロ</category>
+      <dc:title>異邦人</dc:title>
+      <dc:creator>Camus, Albert, 1913-1960</dc:creator>
+      <dc:creator>窪田, 啓作, 1920-2011</dc:creator>
+      <dc:publisher>新潮社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1954</dc:date>
+      <dcterms:issued>1954</dcterms:issued>
+    </item>
+    <item>
+      <title>バンド・デシネ異邦人</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029015885</link>
+      <author>Ferrandez, Jacques, 1955-,ジャック・フェランデズ 作・絵,アルベール・カミュ 原作,青柳悦子 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>バンド・デシネ異邦人</dc:title>
+      <dc:creator>Ferrandez, Jacques, 1955-</dc:creator>
+      <dc:publisher>彩流社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2018</dc:date>
+      <dcterms:issued>2018.6</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">978-4-7791-2466-2</dc:identifier>
+    </item>
+  </channel>
+</rss>

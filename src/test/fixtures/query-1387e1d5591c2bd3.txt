@@ -1,0 +1,84 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fed+%3Ftitle+%3FedLabel+%3Flc+%3Fisbn13+%3Fisbn10+%3FpubLabel+%3Fdate+%3FtrLabel+WHERE+%7B+%3Fed+wdt%3AP629+wd%3AQ607112+.+OPTIONAL+%7B+%3Fed+wdt%3AP1476+%3Ftitle+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP407+%3Fl+.+%3Fl+wdt%3AP424+%3Flc+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP212+%3Fisbn13+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP957+%3Fisbn10+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP123+%3Fpub+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP577+%3Fdate+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP655+%3Ftr+.+%7D+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22mul%2Cen%2Cfr%2Cja%2Cko%2Czh%22+.+%7D+%7D+LIMIT+1000
+{
+  "head" : {
+    "vars" : [ "ed", "title", "edLabel", "lc", "isbn13", "isbn10", "pubLabel", "date", "trLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54810596"
+      },
+      "title" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Three-Body Problem"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "en"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-0-7653-7706-7"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "The Three-Body Problem"
+      },
+      "pubLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Tor Books"
+      },
+      "trLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Ken Liu"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q87346656"
+      },
+      "title" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "三体"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "zh"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-7-5366-9293-0"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2008-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "三体"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chongqing Publishing Group"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "7-5366-9293-5"
+      }
+    } ]
+  }
+}

@@ -1,0 +1,237 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fed+%3Ftitle+%3FedLabel+%3Flc+%3Fisbn13+%3Fisbn10+%3FpubLabel+%3Fdate+%3FtrLabel+WHERE+%7B+%3Fed+wdt%3AP629+wd%3AQ751348+.+OPTIONAL+%7B+%3Fed+wdt%3AP1476+%3Ftitle+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP407+%3Fl+.+%3Fl+wdt%3AP424+%3Flc+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP212+%3Fisbn13+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP957+%3Fisbn10+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP123+%3Fpub+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP577+%3Fdate+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP655+%3Ftr+.+%7D+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22mul%2Cen%2Cfr%2Cja%2Cko%2Czh%22+.+%7D+%7D+LIMIT+1000
+{
+  "head" : {
+    "vars" : [ "ed", "title", "edLabel", "lc", "isbn13", "isbn10", "pubLabel", "date", "trLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q69966015"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-7-5327-6554-6"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-04-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "ノルウェイの森"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shanghai Translation Publishing House"
+      },
+      "trLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lin Shaohua"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q121952371"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-80-207-1630-9"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2015-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Norské dřevo"
+      },
+      "trLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tomáš Jurkovič"
+      },
+      "title" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Norské dřevo"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "cs"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q122107573"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-80-207-2051-1"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2021-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Norské dřevo"
+      },
+      "trLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tomáš Jurkovič"
+      },
+      "title" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Norské dřevo"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "cs"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126543895"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-2-264-05600-9"
+      },
+      "edLabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "La Ballade de l'impossible"
+      },
+      "title" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "La ballade de l'impossible"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "fr"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "2-264-05600-2"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q126546233"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-84-8383-504-3"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2007-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "type" : "literal",
+        "value" : "Q126546233"
+      },
+      "title" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Tokio Blues: Norwegian Wood"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "es"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "84-8383-504-5"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134173482"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-0-375-70402-4"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2000-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Norwegian Wood"
+      },
+      "pubLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Vintage Books"
+      },
+      "title" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Norwegian Wood"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "en"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "0-375-70402-7"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q134173519"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-3-442-73050-6"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2003-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Naokos Lächeln"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "btb"
+      },
+      "trLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Ursula Gräfe"
+      },
+      "title" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Naokos Lächeln"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "de"
+      }
+    } ]
+  }
+}
