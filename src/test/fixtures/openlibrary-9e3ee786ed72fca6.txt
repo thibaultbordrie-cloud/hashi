@@ -1,0 +1,2 @@
+https://openlibrary.org/works/OL43422620W/editions.json?limit=100
+{"size":1,"entries":[{"key":"/books/OL59146882M","title":"キッチン","isbn_10":["4041800080"],"languages":[{"key":"/languages/jpn"}],"publishers":["Kadokawa Shoten"],"publish_date":"1998","by_statement":"Yoshimoto Banana"}]}

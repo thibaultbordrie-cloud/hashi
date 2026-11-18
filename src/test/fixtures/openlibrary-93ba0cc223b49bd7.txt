@@ -1,0 +1,2 @@
+https://openlibrary.org/works/OL27629119W/editions.json?limit=100
+{"size":1,"entries":[{"key":"/books/OL37672807M","title":"素食者","isbn_13":["9781087984629"],"languages":[{"key":"/languages/chi"}],"publishers":["Indy Pub"],"publish_date":"2021"}]}

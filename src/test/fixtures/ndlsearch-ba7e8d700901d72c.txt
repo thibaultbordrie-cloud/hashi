@@ -1,0 +1,621 @@
+https://ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&title=%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E6%A3%AE&creator=%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&cnt=100
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcmitype="http://purl.org/dc/dcmitype/" xmlns:dcndl="http://ndl.go.jp/dcndl/terms/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+  <channel>
+    <title>iss-ndl-opac ノルウェイの森 村上春樹 - 国立国会図書館サーチ OpenSearch</title>
+    <link>https://ios-v2-prod-eks-alb.ndlsearch.ndl.go.jp/api/opensearch?dpid=iss-ndl-opac&amp;title=%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%82%A4%E3%81%AE%E6%A3%AE&amp;creator=%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9&amp;cnt=100</link>
+    <description>Search results for dpid=iss-ndl-opac title=ノルウェイの森 creator=村上春樹 cnt=100</description>
+    <language>ja</language>
+    <openSearch:totalResults>45</openSearch:totalResults>
+    <openSearch:startIndex>1</openSearch:startIndex>
+    <openSearch:itemsPerPage>100</openSearch:itemsPerPage>
+    <item>
+      <title>ノルウェイの森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000001878759</link>
+      <author>村上, 春樹, 1949-,村上春樹 著</author>
+      <category>図書</category>
+      <category>紙</category>
+      <category>デジタル</category>
+      <dc:title>ノルウェイの森</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1987</dc:date>
+      <dcterms:issued>1987.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-203515-4</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-203515-4</dc:identifier>
+    </item>
+    <item>
+      <title>ノルウェイの森 : 劇場公開オリジナル版 : コンプリート・エディション</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I023239946</link>
+      <author>村上春樹 原作,トラン・アン・ユン 監督・脚本,松山ケンイチ [ほか出演]</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <dc:title>ノルウェイの森 : 劇場公開オリジナル版 : コンプリート・エディション</dc:title>
+      <dc:publisher>アスミック</dc:publisher>
+      <dc:publisher>ソニー・ピクチャーズエンタテインメント (発売)</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>[2011.6]</dcterms:issued>
+    </item>
+    <item>
+      <title>ノルウェイの森 : エクステンデッド版 : コンプリート・エディション</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028383464</link>
+      <author>村上春樹 原作,トラン・アン・ユン 監督・脚本,松山ケンイチ [ほか出演]</author>
+      <category>映像資料</category>
+      <category>記録メディア</category>
+      <dc:title>ノルウェイの森 : エクステンデッド版 : コンプリート・エディション</dc:title>
+      <dc:publisher>アスミック</dc:publisher>
+      <dc:publisher>ソニー・ピクチャーズエンタテインメント (発売)</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>[2011.6]</dcterms:issued>
+    </item>
+    <item>
+      <title>ノルウェイの森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007485856</link>
+      <author>村上, 春樹, 1949-,村上春樹 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>ノルウェイの森</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-274869-X</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-274869-X</dc:identifier>
+    </item>
+    <item>
+      <title>ノルウェイの森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007489542</link>
+      <author>村上, 春樹, 1949-,村上春樹 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>ノルウェイの森</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.9</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-274868-1</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-274868-1</dc:identifier>
+    </item>
+    <item>
+      <title>ノルウェイの森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002101178</link>
+      <author>村上, 春樹, 1949-,村上春樹 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>ノルウェイの森</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>1991.4</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-184892-5</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-184892-5</dc:identifier>
+    </item>
+    <item>
+      <title>ノルウェイの森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002101179</link>
+      <author>村上, 春樹, 1949-,村上春樹 [著]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>ノルウェイの森</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>1991.4</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-184893-3</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-184893-3</dc:identifier>
+    </item>
+    <item>
+      <title>ノルウェイの森</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002009229</link>
+      <author>村上, 春樹, 1949-,村上春樹 著,アルフレッド・バーンバウム 訳</author>
+      <category>図書</category>
+      <category>紙</category>
+      <category>デジタル</category>
+      <dc:title>ノルウェイの森</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1989</dc:date>
+      <dcterms:issued>1989.11</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-186052-6</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-186052-6</dc:identifier>
+    </item>
+    <item>
+      <title>村上春樹全作品1979～1989</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000002102704</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>村上春樹全作品1979～1989</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>講談社</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1991</dc:date>
+      <dcterms:issued>1991.3</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">4-06-187936-7</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">4-06-187936-7</dc:identifier>
+    </item>
+    <item>
+      <title>La ballade de l'impossible : roman / Haruki Murakami ; traduit du japonais par Rose-Marie Makino-Fayolle.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003228572</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>La ballade de l'impossible : roman / Haruki Murakami ; traduit du japonais par Rose-Marie Makino-Fayolle.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Seuil</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1994</dc:date>
+      <dcterms:issued>c1994.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">202013473X</dc:identifier>
+    </item>
+    <item>
+      <title>Naokos Lächeln : nur eine Liebesgeschichte ; Roman / Haruki Murakami ; aus dem Japanischen von Ursula Gräfe.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003694953</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Naokos Lächeln : nur eine Liebesgeschichte ; Roman / Haruki Murakami ; aus dem Japanischen von Ursula Gräfe.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>DuMont</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2001</dc:date>
+      <dcterms:issued>2001.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">3770156099</dc:identifier>
+    </item>
+    <item>
+      <title>Norra mets</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I028953748</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,jaapani keelest tõlkinud Kati Lindström.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norra mets</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Varrak</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2016</dc:date>
+      <dcterms:issued>2016.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789985332047</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789985332047</dc:identifier>
+    </item>
+    <item>
+      <title>Norské dřevo / Haruki Murakami ; [přeložil, Tom áš Jurkovič].</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003986997</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norské dřevo / Haruki Murakami ; [přeložil, Tom áš Jurkovič].</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Odeon</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2002</dc:date>
+      <dcterms:issued>c2002.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8020711252</dc:identifier>
+    </item>
+    <item>
+      <title>Norvég erdő</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024248941</link>
+      <author>村上, 春樹, 1949-,Murakami Haruki.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norvég erdő</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Geopen Könyvkiadó</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2013</dc:date>
+      <dcterms:issued>2013.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789639765306</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789639765306</dc:identifier>
+    </item>
+    <item>
+      <title>Norvēgiko dasos / Charouki Mourakami ; metaphrasē, Maria Angelidou.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009398701</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norvēgiko dasos / Charouki Mourakami ; metaphrasē, Maria Angelidou.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Ōkeanida</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789604104550</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789604104550</dc:identifier>
+    </item>
+    <item>
+      <title>Norvegų giria / Haruki Murakami ; iš anglų kalbos vertė Jūratė Nauronaitė.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009382669</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norvegų giria / Haruki Murakami ; iš anglų kalbos vertė Jūratė Nauronaitė.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Baltos lankos</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>c2006.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789955230465</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789955230465</dc:identifier>
+    </item>
+    <item>
+      <title>Norvēʻgu koks : romāns / Haruki Murakami.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004296850</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norvēʻgu koks : romāns / Haruki Murakami.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Izdevniecība AGB</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>c2003.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9984663639</dc:identifier>
+    </item>
+    <item>
+      <title>Norveška šuma</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I034109780</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norveška šuma</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Vuković &amp; Runjić</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2024</dc:date>
+      <dcterms:issued>2024</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789532863796</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789532863796</dc:identifier>
+    </item>
+    <item>
+      <title>Norveška šuma / Haruki Murakami ; prevela s japanskog Nataša Tomić.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009136338</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norveška šuma / Haruki Murakami ; prevela s japanskog Nataša Tomić.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Geopoetika</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788676661138</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788676661138</dc:identifier>
+    </item>
+    <item>
+      <title>Norveška šuma</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009948309</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,prevela s japanskog Nataša Tomić.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norveška šuma</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Geopoetika</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788676661138</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788676661138</dc:identifier>
+    </item>
+    <item>
+      <title>Norveška šuma</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000011302468</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,prevela a japanskog Nataša Tomić.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norveška šuma</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Geopoetika</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788661450662</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788661450662</dc:identifier>
+    </item>
+    <item>
+      <title>Norveški gozd</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I024427625</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,iz japonščine prevedla Nika Cejan.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norveški gozd</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Založba Sanje</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+      <dcterms:issued>[2005]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">961638757X</dc:identifier>
+    </item>
+    <item>
+      <title>Norvezhka gora / Kharuki Murakami ; prevel ot angliĭski Li͡udmil Li͡ut͡skanov.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008599288</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norvezhka gora / Kharuki Murakami ; prevel ot angliĭski Li͡udmil Li͡ut͡skanov.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>"Kolibri"</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>2006.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9545293381</dc:identifier>
+    </item>
+    <item>
+      <title>Norvezhskiĭ les</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007436447</link>
+      <author>村上, 春樹, 1949-,Kharuki Murakami.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norvezhskiĭ les</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>ĖKSMO</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">5699038329</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009394286</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,vertaald door Elbrich Fennema.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Uitgeverij Atlas</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>c2007.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789045006574</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789045006574</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian Wood</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I022999313</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,Uggi Jónsson þýddi.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian Wood</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Bjartur</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2010</dc:date>
+      <dcterms:issued>2010.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9979788356</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood / Haruki Murakami ; translated from the Japanese by Jay Rubin.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003083867</link>
+      <author>村上, 春樹, 1949-,Rubin, Jay, 1941-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood / Haruki Murakami ; translated from the Japanese by Jay Rubin.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:creator>Rubin, Jay, 1941-</dc:creator>
+      <dc:publisher>Vintage International</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2000</dc:date>
+      <dcterms:issued>2000.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">0375704027</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood / Haruki Murakami ; oversatt fra japansk av Ika Kaminka.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003270256</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood / Haruki Murakami ; oversatt fra japansk av Ika Kaminka.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Pax</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1998</dc:date>
+      <dcterms:issued>1998.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8253019955</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood / Haruki Murakami ; översättning, Eiko och Yukiko Duke.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000004110236</link>
+      <author>村上, 春樹, 1949-,Duke, Eiko,Duke, Yukiko.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood / Haruki Murakami ; översättning, Eiko och Yukiko Duke.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:creator>Duke, Eiko</dc:creator>
+      <dc:creator>Duke, Yukiko.</dc:creator>
+      <dc:publisher>Norstedts</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2003</dc:date>
+      <dcterms:issued>2003.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9113010271</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood / Haruki Murakami.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007761373</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood / Haruki Murakami.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Civilização</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>c2004.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9722621750</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood / Haruki Murakami ; oversat af Mette Holm.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008508220</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood / Haruki Murakami ; oversat af Mette Holm.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Klim</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2005</dc:date>
+      <dcterms:issued>2005.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8779551629</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood / Haruki Murakami ; trandução do japonês de Jefferson José Teixeira.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000009993835</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood / Haruki Murakami ; trandução do japonês de Jefferson José Teixeira.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Objetiva</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2000</dc:date>
+      <dcterms:issued>c2000.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8573025972</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I029653257</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,tradução, Maria João Lourenço.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Casa das Letras</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2019</dc:date>
+      <dcterms:issued>2019.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789897416262</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789897416262</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-Ia1000093390</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,[penerjemah, Jonjon Johana]</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>KPG (Kepustakaan Populer Gramedia)</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">979910033X</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood : Tokyo blues / Murakami Haruki ; con una nota dell'autore ; introduzione di Giorgio Amitrano ; [traduzione dal giapponese di Giorgio Amitrano].</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008498730</link>
+      <author>村上, 春樹, 1949-,Amitrano, Giorgio</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood : Tokyo blues / Murakami Haruki ; con una nota dell'autore ; introduzione di Giorgio Amitrano ; [traduzione dal giapponese di Giorgio Amitrano].</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:creator>Amitrano, Giorgio</dc:creator>
+      <dc:publisher>Einaudi</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>c2006.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788806183158</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788806183158</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008533083</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,przełożyły z japońskiego Dorota Marczewska i Anna Zielińska-Elliott.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Muza</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2006</dc:date>
+      <dcterms:issued>2006.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8373198334</dc:identifier>
+    </item>
+    <item>
+      <title>Norwegian wood : zweites Kapitel / Murakami Haruki ; aus dem Japanischen von Michael Schmidt.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008392506</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Norwegian wood : zweites Kapitel / Murakami Haruki ; aus dem Japanischen von Michael Schmidt.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Mori-Ôgai-Gedenkstätte der Humboldt-Universität zu Berlin</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1998</dc:date>
+      <dcterms:issued>c1998.</dcterms:issued>
+    </item>
+    <item>
+      <title>Pădurea norvegiană</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I025851060</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,traducere din limba japoneză şi note de Angela Hondru.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Pădurea norvegiană</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Polirom</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>2011.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789734619450</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789734619450</dc:identifier>
+    </item>
+    <item>
+      <title>Pădurea norvegiană</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000007579960</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,traducere din limba japoneză și note de Angela Hondru.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Pădurea norvegiană</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Polirom</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2004</dc:date>
+      <dcterms:issued>2004.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9736816338</dc:identifier>
+    </item>
+    <item>
+      <title>Pylli norvegjez : roman</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I031246197</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,përktheu nga anglishtja: Etta Klosi</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Pylli norvegjez : roman</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Skanderbeg Books</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2011</dc:date>
+      <dcterms:issued>[2011]</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9789994351640</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9789994351640</dc:identifier>
+    </item>
+    <item>
+      <title>Rừng Na Uy : tiểu thuyết</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-Ia1000013890</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,Hạnh Liên, Hải Thanh dịch,theo bản tiếng Anh của Alfred Birnbaum,Bùi Phụng hiệu đính,lời giới thiệu của Phong Lê</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Rừng Na Uy : tiểu thuyết</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Nhà xuất bản Văn học</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1996</dc:date>
+      <dcterms:issued>1996</dcterms:issued>
+    </item>
+    <item>
+      <title>Tokio blues : Norwegian wood / Haruki Murakami ; traducido del japonés por Lourdes Porta.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000008449369</link>
+      <author>村上, 春樹, 1949-</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Tokio blues : Norwegian wood / Haruki Murakami ; traducido del japonés por Lourdes Porta.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Tusquets Editores</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">8483103079</dc:identifier>
+    </item>
+    <item>
+      <title>Tokyo blues / Haruki Murakami ; traduzione di Giorgio Amitrano.</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000003230034</link>
+      <author>村上, 春樹, 1949-,Amitrano, Giorgio</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Tokyo blues / Haruki Murakami ; traduzione di Giorgio Amitrano.</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:creator>Amitrano, Giorgio</dc:creator>
+      <dc:publisher>Feltrinelli</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">1993</dc:date>
+      <dcterms:issued>1993.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">880770045X</dc:identifier>
+    </item>
+    <item>
+      <title>Tòquio blues</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-I000010742715</link>
+      <author>村上, 春樹, 1949-,Haruki Murakami,traducció del japonès d'Albert Nolla.</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>Tòquio blues</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>Editorial Empúries</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2008</dc:date>
+      <dcterms:issued>2008.</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">9788497871129</dc:identifier>
+      <dc:identifier xsi:type="dcndl:ISBN13">9788497871129</dc:identifier>
+    </item>
+    <item>
+      <title>الغابة النروجية : رواية</title>
+      <link>https://ndlsearch.ndl.go.jp/books/R100000002-Ia1000082725</link>
+      <author>村上, 春樹, 1949-,هاروكي موراكامي,ترجمة سعيد الغانمي</author>
+      <category>図書</category>
+      <category>紙</category>
+      <dc:title>الغابة النروجية : رواية</dc:title>
+      <dc:creator>村上, 春樹, 1949-</dc:creator>
+      <dc:publisher>المركز الثقافي العربي</dc:publisher>
+      <dc:date xsi:type="dcterms:W3CDTF">2007</dc:date>
+      <dcterms:issued>2007</dcterms:issued>
+      <dc:identifier xsi:type="dcndl:ISBN">995368166X</dc:identifier>
+    </item>
+  </channel>
+</rss>

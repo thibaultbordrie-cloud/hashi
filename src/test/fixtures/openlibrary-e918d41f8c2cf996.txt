@@ -1,0 +1,2 @@
+https://openlibrary.org/works/OL43996830W/editions.json?limit=100
+{"size":1,"entries":[{"key":"/books/OL60016526M","title":"異邦人","languages":[{"key":"/languages/jpn"}],"publishers":["Shinchōsha"],"publish_date":"1961","by_statement":"Aruberu Kamyu [cho] ; Kubota Keisaku yaku"}]}
