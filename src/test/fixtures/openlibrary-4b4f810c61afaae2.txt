@@ -1,2 +1,0 @@
-https://openlibrary.org/works/OL1230686W/editions.json?limit=100
-{"size":1,"entries":[{"key":"/books/OL4138430M","title":"L'étranger, suivi de Noces, de L'été, et de L'envers et l'endroit","languages":[{"key":"/languages/fre"}],"publishers":["Bibliothèque des chefs-d'œuvre"],"publish_date":"1979","by_statement":"Albert Camus ; préf. de Jean Bloch-Michel ; ill. originales de Jean Palayer."}]}
