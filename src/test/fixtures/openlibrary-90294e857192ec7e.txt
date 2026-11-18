@@ -1,0 +1,2 @@
+https://openlibrary.org/search.json?title=%E4%B8%89%E4%BD%93&author=%E5%88%98%E6%85%88%E6%AC%A3&fields=key,title,author_name,author_key,id_wikidata,edition_count&limit=5
+{"numFound":1,"start":0,"numFoundExact":true,"num_found":1,"documentation_url":"https://openlibrary.org/dev/docs/api/search","q":"","offset":null,"docs":[{"author_key":["OL7044246A","OL10346704A","OL9081346A","OL9118672A"],"author_name":["刘慈欣","Vincent Schmitt","Gwennaël Gaffric","Marc Simonetti"],"edition_count":46,"key":"/works/OL17267881W","title":"三体","id_wikidata":["Q54810596","Q87346656"]}]}

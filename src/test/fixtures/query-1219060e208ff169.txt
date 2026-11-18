@@ -1,0 +1,59 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fwork+%28MIN%28%3Frank%29+AS+%3Fr%29+WHERE+%7B+hint%3AQuery+hint%3Aoptimizer+%22None%22+.+SERVICE+wikibase%3Amwapi+%7B+bd%3AserviceParam+wikibase%3Aendpoint+%22www.wikidata.org%22%3B+wikibase%3Aapi+%22EntitySearch%22%3B+mwapi%3Asearch+%22L%27%C3%89tranger%22%3B+mwapi%3Alanguage+%22en%22%3B+mwapi%3Alimit+%2212%22+.+%3Fitem+wikibase%3AapiOutputItem+mwapi%3Aitem+.+%3Frank+wikibase%3AapiOrdinal+true+.+%7D+OPTIONAL+%7B+%3Fitem+wdt%3AP629+%3Fw+.+%7D+BIND%28COALESCE%28%3Fw%2C+%3Fitem%29+AS+%3Fwork%29+%3Fwork+wdt%3AP50+%5B%5D+.+%7D+GROUP+BY+%3Fwork+ORDER+BY+%3Fr+LIMIT+5
+{
+  "head" : {
+    "vars" : [ "work", "r" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "r" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#int",
+        "type" : "literal",
+        "value" : "1"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      },
+      "r" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#int",
+        "type" : "literal",
+        "value" : "3"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      },
+      "r" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#int",
+        "type" : "literal",
+        "value" : "4"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "r" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#int",
+        "type" : "literal",
+        "value" : "8"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "r" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#int",
+        "type" : "literal",
+        "value" : "10"
+      }
+    } ]
+  }
+}

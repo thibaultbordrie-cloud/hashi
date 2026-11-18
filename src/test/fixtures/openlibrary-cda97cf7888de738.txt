@@ -1,0 +1,2 @@
+https://openlibrary.org/search.json?isbn=9782020134736&fields=key,title,author_name,author_key,id_wikidata,edition_count&limit=3
+{"numFound":1,"start":0,"numFoundExact":true,"num_found":1,"documentation_url":"https://openlibrary.org/dev/docs/api/search","q":"","offset":null,"docs":[{"author_key":["OL382524A"],"author_name":["村上春樹"],"edition_count":56,"key":"/works/OL2625457W","title":"Norwegian Wood","id_wikidata":["Q126543895"]}]}
