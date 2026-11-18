@@ -1,0 +1,2 @@
+https://openlibrary.org/works/OL11677568W/editions.json?limit=100
+{"size":2,"entries":[{"key":"/books/OL21007251M","title":"Kitchen.","isbn_10":["9621712920"],"languages":[{"key":"/languages/chi"}],"publishers":["Bo Yi"],"publish_date":"1994"},{"key":"/books/OL18379015M","title":"Kitchen.","languages":[{"key":"/languages/eng"}],"publishers":["Faber"],"publish_date":"1997"}]}

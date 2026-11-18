@@ -1,0 +1,14 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+DISTINCT+%3Fwork+WHERE+%7B+VALUES+%3Fol+%7B+%22OL17267881W%22+%7D+%7B+%3Fwork+wdt%3AP648+%3Fol+.+%7D+UNION+%7B+%3Fed+wdt%3AP648+%3Fol+%3B+wdt%3AP629+%3Fwork+.+%7D+FILTER+NOT+EXISTS+%7B+%3Fwork+wdt%3AP629+%5B%5D+%7D+%7D
+{
+  "head" : {
+    "vars" : [ "work" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    } ]
+  }
+}

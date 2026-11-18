@@ -1,0 +1,2 @@
+https://openlibrary.org/authors/OL382524A.json
+{"key":"/authors/OL382524A","name":"村上春樹","remote_ids":{"wikidata":"Q134798"}}

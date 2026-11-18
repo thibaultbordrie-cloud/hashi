@@ -1,0 +1,161 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fwork+%3Flabel+%3Fsitelinks+%3Forig+%3Fauthor+%3Falabel+%3Fol+WHERE+%7B+VALUES+%3Fwork+%7B+wd%3AQ27863945+%7D+%7B+%3Fwork+rdfs%3Alabel+%3Flabel+.+FILTER%28LANG%28%3Flabel%29+IN+%28%22fr%22%2C%22en%22%2C%22ja%22%2C%22ko%22%2C%22zh%22%2C%22zh-hant%22%2C%22zh-tw%22%2C%22zh-hk%22%2C%22zh-hans%22%2C%22zh-cn%22%2C%22mul%22%29%29+%7D+UNION+%7B+%3Fwork+wikibase%3Asitelinks+%3Fsitelinks+.+%7D+UNION+%7B+%3Fwork+wdt%3AP407+%3Fo+.+%3Fo+wdt%3AP424+%3Forig+.+%7D+UNION+%7B+%3Fwork+wdt%3AP50+%3Fauthor+.+OPTIONAL+%7B+%3Fauthor+rdfs%3Alabel+%3Falabel+.+FILTER%28LANG%28%3Falabel%29+IN+%28%22fr%22%2C%22en%22%2C%22ja%22%2C%22ko%22%2C%22zh%22%2C%22zh-hant%22%2C%22zh-tw%22%2C%22zh-hk%22%2C%22zh-hans%22%2C%22zh-cn%22%2C%22mul%22%29%29+%7D+%7D+UNION+%7B+%3Fwork+wdt%3AP648+%3Fol+.+%7D+%7D
+{
+  "head" : {
+    "vars" : [ "work", "label", "sitelinks", "orig", "author", "alabel", "ol" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "15"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "orig" : {
+        "type" : "literal",
+        "value" : "ja"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "ol" : {
+        "type" : "literal",
+        "value" : "OL19744024W"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Convenience Store Woman"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "La Fille de la supérette"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "コンビニ人間"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      },
+      "label" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "편의점 인간"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11523472"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sayaka Murata"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11523472"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Sayaka Murata"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11523472"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "村田沙耶香"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11523472"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "무라타 사야카"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11523472"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "村田沙耶香"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11523472"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Sayaka Murata"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q27863945"
+      }
+    } ]
+  }
+}

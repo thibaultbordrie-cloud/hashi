@@ -1,0 +1,894 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fwork+%3Flabel+%3Fsitelinks+%3Forig+%3Fauthor+%3Falabel+%3Fol+WHERE+%7B+VALUES+%3Fwork+%7B+wd%3AQ163297+wd%3AQ19179399+wd%3AQ102045783+wd%3AQ24864422+wd%3AQ120089490+%7D+%7B+%3Fwork+rdfs%3Alabel+%3Flabel+.+FILTER%28LANG%28%3Flabel%29+IN+%28%22fr%22%2C%22en%22%2C%22ja%22%2C%22ko%22%2C%22zh%22%2C%22zh-hant%22%2C%22zh-tw%22%2C%22zh-hk%22%2C%22zh-hans%22%2C%22zh-cn%22%2C%22mul%22%29%29+%7D+UNION+%7B+%3Fwork+wikibase%3Asitelinks+%3Fsitelinks+.+%7D+UNION+%7B+%3Fwork+wdt%3AP407+%3Fo+.+%3Fo+wdt%3AP424+%3Forig+.+%7D+UNION+%7B+%3Fwork+wdt%3AP50+%3Fauthor+.+OPTIONAL+%7B+%3Fauthor+rdfs%3Alabel+%3Falabel+.+FILTER%28LANG%28%3Falabel%29+IN+%28%22fr%22%2C%22en%22%2C%22ja%22%2C%22ko%22%2C%22zh%22%2C%22zh-hant%22%2C%22zh-tw%22%2C%22zh-hk%22%2C%22zh-hans%22%2C%22zh-cn%22%2C%22mul%22%29%29+%7D+%7D+UNION+%7B+%3Fwork+wdt%3AP648+%3Fol+.+%7D+%7D
+{
+  "head" : {
+    "vars" : [ "work", "label", "sitelinks", "orig", "author", "alabel", "ol" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "ol" : {
+        "type" : "literal",
+        "value" : "OL1230613W"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "86"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "1"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "0"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "9"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "orig" : {
+        "type" : "literal",
+        "value" : "fr"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      },
+      "orig" : {
+        "type" : "literal",
+        "value" : "fr"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      },
+      "orig" : {
+        "type" : "literal",
+        "value" : "fr"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "orig" : {
+        "type" : "literal",
+        "value" : "ja"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "L'étranger series"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "エトランゼシリーズ"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "label" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "에트랑제 시리즈"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "label" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "異邦人系列"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Série de l'étranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Stranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "L'Étranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "異邦人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "이방인"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "異鄉人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "異鄉人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "異鄉人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "异乡人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "局外人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      },
+      "label" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "異鄉人"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "L’Étranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "L’Étranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Umibe no Étranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "海辺のエトランゼ"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "label" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "에트랑제 시리즈"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      },
+      "label" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "異邦人系列"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "L'Étranger"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "L'Étranger"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albert Camus"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Albert Camus"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Albert Camus"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "アルベール・カミュ"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "알베르 카뮈"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Albert Camus"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Albert Camus"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Albert Camus"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "アルベール・カミュ"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "알베르 카뮈"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "阿尔贝·加缪"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "阿尔贝·加缪"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "阿尔贝·加缪"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "阿爾貝·卡繆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "艾拔·卡繆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "阿爾貝·卡繆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q102045783"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "阿尔贝·加缪"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "阿尔贝·加缪"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "阿尔贝·加缪"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "阿爾貝·卡繆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "艾拔·卡繆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q34670"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "阿爾貝·卡繆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q163297"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42247"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sully Prudhomme"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42247"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Sully Prudhomme"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanna Kii"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kanna Kii"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "紀伊カンナ"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "紀伊Kanna"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "기이 간나"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Kanna Kii"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q120089490"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kanna Kii"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Kanna Kii"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "紀伊カンナ"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "紀伊Kanna"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "기이 간나"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33883090"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Kanna Kii"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24864422"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42247"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "シュリ・プリュドム"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42247"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "쉴리 프뤼돔"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42247"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Sully Prudhomme"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42247"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "苏利·普吕多姆"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19179399"
+      }
+    } ]
+  }
+}

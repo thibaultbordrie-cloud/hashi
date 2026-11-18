@@ -1,0 +1,649 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fwork+%3Flabel+%3Fsitelinks+%3Forig+%3Fauthor+%3Falabel+%3Fol+WHERE+%7B+VALUES+%3Fwork+%7B+wd%3AQ607112+wd%3AQ29841269+wd%3AQ108381794+%7D+%7B+%3Fwork+rdfs%3Alabel+%3Flabel+.+FILTER%28LANG%28%3Flabel%29+IN+%28%22fr%22%2C%22en%22%2C%22ja%22%2C%22ko%22%2C%22zh%22%2C%22zh-hant%22%2C%22zh-tw%22%2C%22zh-hk%22%2C%22zh-hans%22%2C%22zh-cn%22%2C%22mul%22%29%29+%7D+UNION+%7B+%3Fwork+wikibase%3Asitelinks+%3Fsitelinks+.+%7D+UNION+%7B+%3Fwork+wdt%3AP407+%3Fo+.+%3Fo+wdt%3AP424+%3Forig+.+%7D+UNION+%7B+%3Fwork+wdt%3AP50+%3Fauthor+.+OPTIONAL+%7B+%3Fauthor+rdfs%3Alabel+%3Falabel+.+FILTER%28LANG%28%3Falabel%29+IN+%28%22fr%22%2C%22en%22%2C%22ja%22%2C%22ko%22%2C%22zh%22%2C%22zh-hant%22%2C%22zh-tw%22%2C%22zh-hk%22%2C%22zh-hans%22%2C%22zh-cn%22%2C%22mul%22%29%29+%7D+%7D+UNION+%7B+%3Fwork+wdt%3AP648+%3Fol+.+%7D+%7D
+{
+  "head" : {
+    "vars" : [ "work", "label", "sitelinks", "orig", "author", "alabel", "ol" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "35"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "19"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      },
+      "sitelinks" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#integer",
+        "type" : "literal",
+        "value" : "4"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "ol" : {
+        "type" : "literal",
+        "value" : "OL17267881W"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      },
+      "ol" : {
+        "type" : "literal",
+        "value" : "OL20847868W"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Le Problème à trois corps"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "三体"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "三體"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "三体"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "三体"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "三體"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "三體"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "삼체"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Three-Body Problem"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      },
+      "label" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "三體"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "label" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "삼체"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Remembrance of Earth's Past"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "trilogie du Problème à trois corps"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "地球往事三部作"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "label" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "地球往事"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      },
+      "label" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "地球往事"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      },
+      "label" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Redemption of Time"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      },
+      "label" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "La Rédemption du temps"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      },
+      "label" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "三体X・観想之宙"
+      }
+    }, {
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      },
+      "label" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "三体X·观想之宙"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liu Cixin"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Liu Cixin"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "류츠신"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "刘慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "刘慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "刘慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Liu Cixin"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29841269"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Liu Cixin"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Liu Cixin"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "류츠신"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "刘慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-cn",
+        "type" : "literal",
+        "value" : "刘慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hans",
+        "type" : "literal",
+        "value" : "刘慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hant",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-hk",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "zh-tw",
+        "type" : "literal",
+        "value" : "劉慈欣"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607588"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Liu Cixin"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q607112"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21027193"
+      },
+      "alabel" : {
+        "xml:lang" : "zh",
+        "type" : "literal",
+        "value" : "宝树"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21027193"
+      },
+      "alabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baoshu"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21027193"
+      },
+      "alabel" : {
+        "xml:lang" : "fr",
+        "type" : "literal",
+        "value" : "Baoshu"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21027193"
+      },
+      "alabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "宝樹"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21027193"
+      },
+      "alabel" : {
+        "xml:lang" : "ko",
+        "type" : "literal",
+        "value" : "바오수"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      }
+    }, {
+      "author" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21027193"
+      },
+      "alabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Baoshu"
+      },
+      "work" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q108381794"
+      }
+    } ]
+  }
+}

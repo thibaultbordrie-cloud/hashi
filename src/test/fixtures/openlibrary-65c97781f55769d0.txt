@@ -1,0 +1,2 @@
+https://openlibrary.org/works/OL2637558W/editions.json?limit=100
+{"size":1,"entries":[{"key":"/books/OL7875128M","title":"Kitchen (A Black cat book)","isbn_13":["9780802142443"],"isbn_10":["0802142443"],"languages":[{"key":"/languages/eng"}],"publishers":["Grove Press"],"publish_date":"April 17, 2006"}]}

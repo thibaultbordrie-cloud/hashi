@@ -1,0 +1,218 @@
+https://query.wikidata.org/sparql?format=json&query=SELECT+%3Fed+%3Ftitle+%3FedLabel+%3Flc+%3Fisbn13+%3Fisbn10+%3FpubLabel+%3Fdate+%3FtrLabel+WHERE+%7B+%3Fed+wdt%3AP629+wd%3AQ24082770+.+OPTIONAL+%7B+%3Fed+wdt%3AP1476+%3Ftitle+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP407+%3Fl+.+%3Fl+wdt%3AP424+%3Flc+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP212+%3Fisbn13+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP957+%3Fisbn10+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP123+%3Fpub+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP577+%3Fdate+.+%7D+OPTIONAL+%7B+%3Fed+wdt%3AP655+%3Ftr+.+%7D+SERVICE+wikibase%3Alabel+%7B+bd%3AserviceParam+wikibase%3Alanguage+%22mul%2Cen%2Cfr%2Cja%2Cko%2Czh%22+.+%7D+%7D+LIMIT+1000
+{
+  "head" : {
+    "vars" : [ "ed", "title", "edLabel", "lc", "isbn13", "isbn10", "pubLabel", "date", "trLabel" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q121989103"
+      },
+      "title" : {
+        "xml:lang" : "cs",
+        "type" : "literal",
+        "value" : "Vegetariánka"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "cs"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-80-207-1755-9"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2017-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Vegetariánka"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Odeon"
+      },
+      "trLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Petra Ben-Ari"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q130472978"
+      },
+      "title" : {
+        "xml:lang" : "de",
+        "type" : "literal",
+        "value" : "Die Vegetarierin"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "de"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-3-351-03653-9"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "type" : "literal",
+        "value" : "Q130472978"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aufbau-Verlag"
+      },
+      "trLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "Ki-Hyang Lee"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q131429088"
+      },
+      "title" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Vegetarian"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "en"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-0-553-44818-4"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-02-02T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "The Vegetarian"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "0-553-44818-8"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q133288664"
+      },
+      "title" : {
+        "xml:lang" : "gl",
+        "type" : "literal",
+        "value" : "A vexetariana"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "gl"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-84-17388-79-9"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2022-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "type" : "literal",
+        "value" : "Q133288664"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q138841431"
+      },
+      "title" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "菜食主義者"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "ja"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-4-904855-02-7"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2011-01-01T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "ja",
+        "type" : "literal",
+        "value" : "菜食主義者"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "CUON Inc."
+      },
+      "trLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kim Hun-a"
+      }
+    }, {
+      "ed" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q141796605"
+      },
+      "title" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "The Vegetarian"
+      },
+      "lc" : {
+        "type" : "literal",
+        "value" : "en"
+      },
+      "isbn13" : {
+        "type" : "literal",
+        "value" : "978-1-101-90611-8"
+      },
+      "date" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2016-08-23T00:00:00Z"
+      },
+      "edLabel" : {
+        "xml:lang" : "mul",
+        "type" : "literal",
+        "value" : "The Vegetarian"
+      },
+      "pubLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hogarth Press"
+      },
+      "isbn10" : {
+        "type" : "literal",
+        "value" : "1-101-90611-1"
+      }
+    } ]
+  }
+}
